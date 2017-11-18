@@ -34,7 +34,6 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
-        android:background="@drawable/unnamed"
         android:backgroundTint="?attr/colorPrimary"
         app:layout_constraintBottom_toBottomOf="@+id/videoView1"
         app:layout_constraintLeft_toLeftOf="parent"
